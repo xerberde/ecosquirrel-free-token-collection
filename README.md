@@ -50,11 +50,3 @@ This module is released under the **MIT License**. The artwork is released under
 
 For issues and feedback, open an issue in the [GitHub repository](https://github.com/your-repo/ecosquirrel-free-token-collection).  
 
----
-
-### Korrekturen:  
-- Grammatik- und Rechtschreibfehler korrigiert (z. B. „feal free“ → „feel free“, „foudn“ → „found“, „structurre“ → „structure“).  
-- Satzstruktur verbessert, um Klarheit und Lesbarkeit zu erhöhen.  
-- Dopplung „ES“ in den unterstützten Sprachen entfernt.  
-- Kleinere sprachliche Optimierungen für eine professionellere Formulierung.  
-
