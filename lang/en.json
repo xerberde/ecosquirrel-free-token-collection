@@ -1,0 +1,16 @@
+{
+  "I18N.MAINTAINERS": ["ecosquirrel"],
+  "I18N.LANGUAGE": "English",
+  "es.tokenSelection": "Token Selection",
+  "es.randomSelection": "Random Selection",
+  "es.selectCategory": "Select a Category:",
+  "es.selectCategoryDescription1": "Here you will find a selection of sample tokens categorized into different groups. Choose a category from the dropdown menu to display the matching tokens. The free module includes 20 tokens per category:",
+  "es.selectCategoryDescription2": "The tokens themselves are located in the Foundry VTT directory structure at:",
+  "es.selectCategoryDescription3": "From there, you can choose from 120 tokens for your characters, NPCs, and other game content.",
+  "es.category.fighterMale": "Warriors (adult)",
+  "es.category.fighterFemale": "Female Warriors (adult)",
+  "es.category.peasantMale": "Citizens (adult)",
+  "es.category.peasantFemale": "Female Citizens (adult)",
+  "es.category.peasantBoy": "Citizens (child)",
+  "es.category.peasantGirl": "Female Citizens (child)"
+}

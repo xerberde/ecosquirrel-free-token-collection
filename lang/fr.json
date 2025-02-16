@@ -1,0 +1,16 @@
+{
+  "I18N.MAINTAINERS": ["ecosquirrel"],
+  "I18N.LANGUAGE": "Italiano",
+  "es.tokenSelection": "Selezione dei Token",
+  "es.randomSelection": "Selezione Casuale",
+  "es.selectCategory": "Seleziona una categoria:",
+  "es.selectCategoryDescription1": "Vous trouverez ici une sélection de jetons d'exemple, classés en différentes catégories. Choisissez une catégorie dans le menu déroulant pour afficher les jetons correspondants. Le module gratuit comprend 20 jetons par catégorie :",
+  "es.selectCategoryDescription2": "Les jetons se trouvent dans la structure de fichiers de Foundry VTT à l'emplacement :",
+  "es.selectCategoryDescription3": "De là, vous pouvez choisir parmi 120 jetons pour vos personnages, PNJ et autres contenus de jeu.",
+  "es.category.fighterMale": "Guerrieri (adulti)",
+  "es.category.fighterFemale": "Guerriere (adulte)",
+  "es.category.peasantMale": "Cittadini (adulti)",
+  "es.category.peasantFemale": "Cittadine (adulte)",
+  "es.category.peasantBoy": "Cittadini (bambini)",
+  "es.category.peasantGirl": "Cittadine (bambine)"
+}

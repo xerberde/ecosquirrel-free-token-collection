@@ -1,0 +1,16 @@
+{
+  "I18N.MAINTAINERS": ["ecosquirrel"],
+  "I18N.LANGUAGE": "Polski",
+  "es.tokenSelection": "Wybór żetonów",
+  "es.randomSelection": "Losowy wybór",
+  "es.selectCategory": "Wybierz kategorię:",
+  "es.selectCategoryDescription1": "Tutaj znajdziesz wybór przykładowych tokenów podzielonych na różne kategorie. Wybierz kategorię z menu rozwijanego, aby wyświetlić odpowiednie tokeny. Darmowy moduł zawiera 20 tokenów na kategorię:",
+  "es.selectCategoryDescription2": "Tokeny znajdują się w strukturze plików Foundry VTT pod ścieżką:",
+  "es.selectCategoryDescription3": "Stamtąd możesz wybierać spośród 120 tokenów dla swoich postaci, NPC i innych elementów gry.",
+  "es.category.fighterMale": "Wojownicy (dorośli)",
+  "es.category.fighterFemale": "Wojowniczki (dorosłe)",
+  "es.category.peasantMale": "Obywatele (dorośli)",
+  "es.category.peasantFemale": "Obywatelki (dorosłe)",
+  "es.category.peasantBoy": "Obywatele (dzieci)",
+  "es.category.peasantGirl": "Obywatelki (dzieci)"
+}
