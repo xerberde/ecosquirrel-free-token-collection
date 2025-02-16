@@ -1,7 +1,3 @@
-Hier ist dein überprüfter und korrigierter Text mit Korrekturen in Rechtschreibung, Grammatik und Klarheit:  
-
----
-
 # Ecosquirrel Free Token Collection  
 
 ## Overview  
@@ -62,4 +58,3 @@ For issues and feedback, open an issue in the [GitHub repository](https://github
 - Dopplung „ES“ in den unterstützten Sprachen entfernt.  
 - Kleinere sprachliche Optimierungen für eine professionellere Formulierung.  
 
-Lass mich wissen, falls du weitere Änderungen möchtest! 😊
