@@ -51,17 +51,7 @@
 	  "url": "https://www.ecosquirrel.de"
     }
   ],
-  "relationships": {
-    "systems": [
-      {
-        "id": "dsa5",
-        "type": "system",
-        "compatibility": {
-          "minimum": "5.0.0"
-        }
-      }
-    ]
-  },
+  "relationships": {},
   "scripts": [
     "ecosquirrel-free-token-collection.js"
   ],
