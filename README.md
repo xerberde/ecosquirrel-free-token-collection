@@ -2,7 +2,7 @@
 
 ## Overview  
 
-Ecosquirrel Free Token Collection is a **FoundryVTT module** that provides an easy-to-use token selection system for tabletop RPGs. This module provides **120 tokens** from **six different categories**. This is a demo module to showcase the tokens. Other commercial FoundryVTT modules may follow.  
+Ecosquirrel Free Token Collection is a **FoundryVTT module** that provides **120 tokens** from **six different categories**. This is a demo module to showcase the tokens. Other commercial FoundryVTT modules may follow.  
 
 ## Installation  
 
