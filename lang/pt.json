@@ -6,8 +6,7 @@
   "es.selectCategory": "Escolha uma categoria:",
   "es.selectCategoryDescription1": "Aqui você encontrará uma seleção de tokens de exemplo, organizados em diferentes categorias. Escolha uma categoria no menu suspenso para exibir os tokens correspondentes. O módulo gratuito inclui 20 tokens por categoria:",
   "es.selectCategoryDescription2": "Os tokens estão localizados na estrutura de arquivos do Foundry VTT em:",
-  "es.selectCategoryDescription3": "A partir daí, você pode escolher entre 120 tokens para seus personagens, NPCs e outros conteúdos do jogo."
-
+  "es.selectCategoryDescription3": "A partir daí, você pode escolher entre 120 tokens para seus personagens, NPCs e outros conteúdos do jogo.",
   "es.category.fighterMale": "Guerreiros (adultos)",
   "es.category.fighterFemale": "Guerreiras (adultas)",
   "es.category.peasantMale": "Cidadãos (adultos)",
