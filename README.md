@@ -7,7 +7,7 @@ Ecosquirrel Free Token Collection is a **FoundryVTT module** that provides **120
 ## Version
 
 - 1.0.0 First Version
-- 1.0.1 fix for Portuguese language
+- 1.0.1 Fix for Portuguese language
   
 ## Installation  
 
