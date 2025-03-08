@@ -4,6 +4,11 @@
 
 Ecosquirrel Free Token Collection is a **FoundryVTT module** that provides **120 tokens** from **six different categories**. This is a demo module to showcase the tokens.  
 
+## Version
+
+- 1.0.0 First Version
+- 1.0.1 fix for Portuguese language
+  
 ## Installation  
 
 ### 1. Download & Install  
