@@ -22,6 +22,8 @@ Ecosquirrel Free Token Collection is a **FoundryVTT module** that provides **120
 - To get an overview of the 120 tokens, feel free to go to the settings menu.  
 - Navigate to `Game Settings > Module Settings > Ecosquirrel Free Token Collection`.  
 
+![Settings](https://github.com/xerberde/ecosquirrel-free-token-collection/blob/main/images/ecosquirrel_settings.webp)
+
 ## Token Categories  
 
 The module includes the following token categories:  
