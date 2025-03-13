@@ -8,6 +8,7 @@ Ecosquirrel Free Token Collection is a **FoundryVTT module** that provides **120
 
 - 1.0.0 First Version
 - 1.0.1 Fix for Portuguese language
+- 1.0.2 Fix for an issue that the "Save Changes" Button was not displayed.
   
 ## Installation  
 
