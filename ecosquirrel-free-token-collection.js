@@ -80,7 +80,6 @@ Hooks.once("init", () => {
 
       html.find("h2.border:contains('Ecosquirrel Free Token Collection')").remove();
       html.find("div.form-group[data-setting-id='ecosquirrel-free-token-collection.Ecosquirrel']").remove();
-      html.find("button[type='submit']").remove();
 
       const header = `
         <div style="display: flex; align-items: center; gap: 10px;">
