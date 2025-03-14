@@ -2,8 +2,7 @@
   "title": "Ecosquirrel Free Token Collection",
   "description": "This module enhances FoundryVTT by adding a collection of some demo tokens, providing Game Masters and players with ready-to-use assets for their virtual tabletop sessions. Designed to be fully system-agnostic, it seamlessly integrates with any game system supported by FoundryVTT, making it a versatile addition to any campaign.",
   "id": "ecosquirrel-free-token-collection",
-
-	"version": "1.0.2",
+  "version": "1.0.2",
   "url": "https://github.com/xerberde/ecosquirrel-free-token-collection",
   "manifest": "https://raw.githubusercontent.com/xerberde/ecosquirrel-free-token-collection/main/module.json",
   "download": "https://github.com/xerberde/ecosquirrel-free-token-collection/archive/refs/heads/main.zip",
